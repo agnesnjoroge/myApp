@@ -1,0 +1,18 @@
+body{
+  font-family: Sans-Serif;
+  
+}
+div{
+  padding: 1rem;
+}
+a{
+  
+  color: blue;
+}
+nav{
+  padding: 5rem;
+  background-color: grey;
+}
+p{
+  color: red;
+}
